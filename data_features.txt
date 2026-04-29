@@ -1,0 +1,166 @@
+ 'account_number': Unique Member ID internal to Medical guardian
+ 'age': Age
+ 'assist_count_trend_last_12m': Trend of Assist count seen in previous 12 months
+ 'assist_count_T-1m': assist count for the 1 before the target month
+ 'assist_count_T-2m': assist count for the 2 before the target month
+ 'assist_count_T-3m': assist count for the 3 before the target month
+ 'assist_count_T-4m':assist count for the 4 before the target month
+ 'assist_count_T-5m': assist count for the 5 before the target month
+ 'assist_count_T-6m': assist count for the 6 before the target month
+ 'assist_count_T-7m': assist count for the 7 before the target month
+ 'assist_count_T-8m': assist count for the 8 before the target month
+ 'assist_count_T-9m',: assist count for the 9 before the target month
+ 'assist_count_T-10m': assist count for the 10 before the target month
+ 'assist_count_T-11m': assist count for the 11 before the target month
+ 'assist_count_T-12m': assist count for the 12 before the target month
+ 'fall_alarm_count_trend_last_12m': Trend of alarm count seen in previous 12 months
+ 'fall_alarm_count_T-1m': fall alarm count for the 1 before the target month
+ 'fall_alarm_count_T-2m': fall alarm count for the 2 before the target month
+ 'fall_alarm_count_T-3m': fall alarm count for the 3 before the target month
+ 'fall_alarm_count_T-4m': fall alarm count for the 4 before the target month
+ 'fall_alarm_count_T-5m': fall alarm count for the 5 before the target month
+ 'fall_alarm_count_T-6m': fall alarm count for the 6 before the target month
+ 'fall_alarm_count_T-7m': fall alarm count for the 7 before the target month
+ 'fall_alarm_count_T-8m': fall alarm count for the 8 before the target month
+ 'fall_alarm_count_T-9m': fall alarm count for the 9 before the target month
+ 'fall_alarm_count_T-10m': fall alarm count for the 10 before the target month
+ 'fall_alarm_count_T-11m': fall alarm count for the 11 before the target month
+ 'fall_alarm_count_T-12m': fall alarm count for the 12 before the target month
+ 'fall_count_trend_last_12m': Trend of fall count seen in previous 12 months
+ 'fall_count_T-1m': fall alarm count for the 1 before the target month
+ 'fall_count_T-2m': fall alarm count for the 2 before the target month
+ 'fall_count_T-3m': fall alarm count for the 3 before the target month
+ 'fall_count_T-4m': fall alarm count for the 4 before the target month
+ 'fall_count_T-5m': fall alarm count for the 5 before the target month
+ 'fall_count_T-6m': fall alarm count for the 6 before the target month
+ 'fall_count_T-7m': fall alarm count for the 7 before the target month
+ 'fall_count_T-8m': fall alarm count for the 8 before the target month
+ 'fall_count_T-9m': fall alarm count for the 9 before the target month
+ 'fall_count_T-10m': fall alarm count for the 10 before the target month
+ 'fall_count_T-11m': fall alarm count for the 11 before the target month
+ 'fall_count_T-12m': fall alarm count for the 12 before the target month
+ 'er_dispatch_count_trend_last_12m': Trend of fall count seen in previous 12 months
+ 'er_dispatch_count_T-1m': er dispatch count for the 1 before the target month
+ 'er_dispatch_count_T-2m': er dispatch count for the 2 before the target month
+ 'er_dispatch_count_T-3m': er dispatch count for the 3 before the target month
+ 'er_dispatch_count_T-4m': er dispatch count for the 4 before the target month
+ 'er_dispatch_count_T-5m': er dispatch count for the 5 before the target month
+ 'er_dispatch_count_T-6m': er dispatch count for the 6 before the target month
+ 'er_dispatch_count_T-7m': er dispatch count for the 7 before the target month
+ 'er_dispatch_count_T-8m': er dispatch count for the 8 before the target month
+ 'er_dispatch_count_T-9m': er dispatch count for the 9 before the target month
+ 'er_dispatch_count_T-10m': er dispatch count for the 10 before the target month
+ 'er_dispatch_count_T-11m': er dispatch count for the 11 before the target month
+ 'er_dispatch_count_T-12m': er dispatch count for the 12 before the target month
+ 'button_press_count_trend_last_12m': Trend of button press count seen in previous 12 months
+ 'button_press_count_T-1m': button press count for the 1 before the target month
+ 'button_press_count_T-2m': button press count for the 2 before the target month
+ 'button_press_count_T-3m': button press count for the 3 before the target month
+ 'button_press_count_T-4m': button press count for the 4 before the target month
+ 'button_press_count_T-5m': button press count for the 5 before the target month
+ 'button_press_count_T-6m': button press count for the 6 before the target month
+ 'button_press_count_T-7m': button press count for the 7 before the target month
+ 'button_press_count_T-8m': button press count for the 8 before the target month
+ 'button_press_count_T-9m': button press count for the 9 before the target month
+ 'button_press_count_T-10m': button press count for the 10 before the target month
+ 'button_press_count_T-11m': button press count for the 11 before the target month
+ 'button_press_count_T-12m': button press count for the 12 before the target month
+ 'help_sent_count_trend_last_12m': Trend of help sent count seen in previous 12 months
+ 'help_sent_count_T-1m': help sent count for the 1 before the target month
+ 'help_sent_count_T-2m': help sent count for the 2 before the target month
+ 'help_sent_count_T-3m': help sent count for the 3 before the target month
+ 'help_sent_count_T-4m': help sent count for the 4 before the target month
+ 'help_sent_count_T-5m': help sent count for the 5 before the target month
+ 'help_sent_count_T-6m': help sent count for the 6 before the target month
+ 'help_sent_count_T-7m': help sent count for the 7 before the target month
+ 'help_sent_count_T-8m': help sent count for the 8 before the target month
+ 'help_sent_count_T-9m': help sent count for the 9 before the target month
+ 'help_sent_count_T-10m': help sent count for the 10 before the target month
+ 'help_sent_count_T-11m': help sent count for the 11 before the target month
+ 'help_sent_count_T-12m': help sent count for the 12 before the target month
+ 'help_sent_count_trend_last_12m': Trend of help sent out count seen in previous 12 months
+ 'subscriber_reached_count_trend_last_12m': Trend of subscriber reached count seen in previous 12 months
+ 'subscriber_reached_count_T-1m': help sent count for the 1 before the target month
+ 'subscriber_reached_count_T-2m': help sent count for the 2 before the target month
+ 'subscriber_reached_count_T-3m': help sent count for the 3 before the target month
+ 'subscriber_reached_count_T-4m': help sent count for the 4 before the target month
+ 'subscriber_reached_count_T-5m': help sent count for the 5 before the target month
+ 'subscriber_reached_count_T-6m': help sent count for the 6 before the target month
+ 'subscriber_reached_count_T-7m': help sent count for the 7 before the target month
+ 'subscriber_reached_count_T-8m': help sent count for the 8 before the target month
+ 'subscriber_reached_count_T-9m': help sent count for the 9 before the target month
+ 'subscriber_reached_count_T-10m': help sent count for the 10 before the target month
+ 'subscriber_reached_count_T-11m': help sent count for the 11 before the target month
+ 'subscriber_reached_count_T-12m': help sent count for the 12 before the target month
+ 'dispatch_cancelled_count_trend_last_12m': Trend of dispatch cancelled count seen in previous 12 months
+ 'dispatch_cancelled_count_T-1m': dispatch cancelled count for the 1 before the target month
+ 'dispatch_cancelled_count_T-2m': dispatch cancelled count for the 2 before the target month
+ 'dispatch_cancelled_count_T-3m': dispatch cancelled count for the 3 before the target month
+ 'dispatch_cancelled_count_T-4m': dispatch cancelled count for the 4 before the target month
+ 'dispatch_cancelled_count_T-5m': dispatch cancelled count for the 5 before the target month
+ 'dispatch_cancelled_count_T-6m': dispatch cancelled count for the 6 before the target month
+ 'dispatch_cancelled_count_T-7m': dispatch cancelled count for the 7 before the target month
+ 'dispatch_cancelled_count_T-8m': dispatch cancelled count for the 8 before the target month
+ 'dispatch_cancelled_count_T-9m': dispatch cancelled count for the 9 before the target month
+ 'dispatch_cancelled_count_T-10m': dispatch cancelled count for the 10 before the target month
+ 'dispatch_cancelled_count_T-11m': dispatch cancelled count for the 11 before the target month
+ 'dispatch_cancelled_count_T-12m': dispatch cancelled count for the 12 before the target month
+ 'subscriber_reached_count_trend_last_12m': Trend of subscriber reached count seen in previous 12 months
+ 'dispatch_cancelled_count_trend_last_12m: Trend of dispatch cancelled count seen in previous 12 months
+ 'avg_daily_steps_trend_last_12m': Trend of avg daily steps count seen in previous 12 months
+ 'sentiment_positive_count_T-1m': sentiment positive count for the 1 before the target month
+ 'sentiment_positive_count_T-2m': sentiment positive count for the 2 before the target month
+ 'sentiment_positive_count_T-3m': sentiment positive count for the 3 before the target month
+ 'sentiment_positive_count_T-4m': sentiment positive count for the 4 before the target month
+ 'sentiment_positive_count_T-5m': sentiment positive count for the 5 before the target month
+ 'sentiment_positive_count_T-6m': sentiment positive count for the 6 before the target month
+ 'sentiment_positive_count_T-7m': sentiment positive count for the 7 before the target month
+ 'sentiment_positive_count_T-8m': sentiment positive count for the 8 before the target month
+ 'sentiment_positive_count_T-9m': sentiment positive count for the 9 before the target month
+ 'sentiment_positive_count_T-10m': sentiment positive count for the 10 before the target month
+ 'sentiment_positive_count_T-11m': sentiment positive count for the 11 before the target month
+ 'sentiment_positive_count_T-12m': sentiment positive count for the 12 before the target month
+ 'sentiment_neutral_count_T-1m': sentiment neutral count for the 1 before the target month
+ 'sentiment_neutral_count_T-2m': sentiment neutral count for the 2 before the target month
+ 'sentiment_neutral_count_T-3m': sentiment neutral count for the 3 before the target month
+ 'sentiment_neutral_count_T-4m': sentiment neutral count for the 4 before the target month
+ 'sentiment_neutral_count_T-5m': sentiment neutral count for the 5 before the target month
+ 'sentiment_neutral_count_T-6m': sentiment neutral count for the 6 before the target month
+ 'sentiment_neutral_count_T-7m': sentiment neutral count for the 7 before the target month
+ 'sentiment_neutral_count_T-8m': sentiment neutral count for the 8 before the target month
+ 'sentiment_neutral_count_T-9m': sentiment neutral count for the 9 before the target month
+ 'sentiment_neutral_count_T-10m': sentiment neutral count for the 10 before the target month
+ 'sentiment_neutral_count_T-11m': sentiment neutral count for the 11 before the target month
+ 'sentiment_neutral_count_T-12m': sentiment neutral count for the 12 before the target month
+
+ 'avg_daily_steps_T-1m': avg daily steps for the 1 before the target month
+ 'avg_daily_steps_T-2m': avg daily steps for the 2 before the target month
+ 'avg_daily_steps_T-3m': avg daily steps for the 3 before the target month
+ 'avg_daily_steps_T-4m': avg daily steps for the 4 before the target month
+ 'avg_daily_steps_T-5m': avg daily steps for the 5 before the target month
+ 'avg_daily_steps_T-6m': avg daily steps for the 6 before the target month
+ 'avg_daily_steps_T-7m': avg daily steps for the 7 before the target month
+ 'avg_daily_steps_T-8m': avg daily steps for the 8 before the target month
+ 'avg_daily_steps_T-9m': avg daily steps for the 9 before the target month
+ 'avg_daily_steps_T-10m': avg daily steps for the 10 before the target month
+ 'avg_daily_steps_T-11m': avg daily steps for the 11 before the target month
+ 'avg_daily_steps_T-12m': avg daily steps for the 12 before the target month
+ 'low_steps_month_ratio_last_12m': low steps month ratio seen in previous 12 months
+ 'sentiment_negative_count_T-1m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-2m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-3m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-4m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-5m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-6m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-7m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-8m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-9m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-10m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-11m': sentiment negative count for the 12 before the target month
+ 'sentiment_negative_count_T-12m': sentiment negative count for the 12 before the target month
+ 'sentiment_available_month_ratio_last_12m': count of sentiment seen in previous 12 months
+ 'data_completeness_last_12m': data completeness for the last 12 months
+ 'months_present_last_12m': Data available in the last 12 monthsx
+ 'active_months_last_12m': Number of Active months for the last 12 months
+ 'all_zero_activity_flag_last_12m': cumulative zero activity flags in last 12 months
+ 'target_fall_next_month': target column
